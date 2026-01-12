@@ -98,6 +98,5 @@ Created by [Maria Alatsaki](https://github.com/Alatsakimaria)
 ## Links
 
 - **GitHub Repository**: [mystery-balls-shop](https://github.com/Alatsakimaria/mystery-balls-shop)
-- **Live Demo**: Coming soon
 
 
